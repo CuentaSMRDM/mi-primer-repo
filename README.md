@@ -1,2 +1,3 @@
-# mi-primer-repo
-Reto 3 cambio desde la terminal
+<<<<<<< HEAD
+=======
+>>>>>>> 561b3b6fdeaf40f1fc816a7682b89726745e6fd5
