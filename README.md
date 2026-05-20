@@ -1,3 +1,2 @@
-<<<<<<< HEAD
-=======
->>>>>>> 561b3b6fdeaf40f1fc816a7682b89726745e6fd5
+Soy estudiante en prácticas de SMR
+Reto 3 cambio desde la terminal
